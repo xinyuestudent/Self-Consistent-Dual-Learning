@@ -16,7 +16,7 @@ The two components are linked via a **spectral-angle cycle-consistency loss**, e
 
 ### 📄 Paper
 > **Physics-driven Dual Learning with Beer–Lambert–Guided Diffusion for Chemical Composition Analysis and NIR Spectral Generation**  
-> Submitted to *Neuracomputing*, Dec 15, 2025.
+> Submitted to *Neurocomputing*, Dec 15, 2025.
 
 ### 🚀 Coming Soon
 - Training code  

@@ -15,8 +15,8 @@ The two components are linked via a **spectral-angle cycle-consistency loss**, e
 - Enables **synthetic data generation** for calibration, augmentation, and anomaly detection.
 
 ### 📄 Paper
-> **Self-Calibrating Near-Infrared Spectroscopy via Dual Learning: Integrating Physically Constrained Diffusion Generation with Interpretable Chemical Prediction**  
-> Submitted to *Knowledge-Based Systems*, October 15, 2025.
+> **Physics-driven Dual Learning with Beer–Lambert–Guided Diffusion for Chemical Composition Analysis and NIR Spectral Generation**  
+> Submitted to *Neuracomputing*, Dec 15, 2025.
 
 ### 🚀 Coming Soon
 - Training code  

@@ -1,4 +1,4 @@
-# Self-Consistent Dual Learning for Data-Efficient Regression of Physically Constrained 1D Signals
+# Physics-Guided Self-Consistent Dual Learning for Data-Efficient Near-Infrared Spectral Regression
 
 > **Code will be released immediately upon paper acceptance.**
 
@@ -24,7 +24,7 @@ Physics-aware training via Beer–Lambert-inspired constraint and angular alignm
 Modular MASL backbone integrates Conv, GRU, and Attention for robust spectral feature extraction.
 
 ### 📄 Paper
-> **Self-Consistent Dual Learning for Data-Efficient Regression of Physically Constrained 1D Signals**  
+> **Physics-Guided Self-Consistent Dual Learning for Data-Efficient Near-Infrared Spectral Regression**  
 > submitting
 
 ### 🚀 Coming Soon

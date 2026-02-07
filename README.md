@@ -1,15 +1,16 @@
-# Physics-Guided Self-Consistent Dual Learning for Data-Efficient Near-Infrared Spectral Regression
+# Dual-Path Consistency Learning for Chemical Composition Analysis from Near-Infrared Spectra
 
 > **Code will be released immediately upon paper acceptance.**
 
 This repository implements a novel **dual-learning framework** for self-calibrating near-infrared (NIR) spectroscopy. It jointly trains:
-- We propose a self-consistent dual learning framework for inverse regression of physically constrained one-dimensional sensor signals.
+- •	A consistency-regularized framework improves NIR regression under calibration-limited conditions
 
-- The model incorporates physics-inspired cycle consistency and angular alignment constraints to improve regression stability and interpretability.
+- •	Training-time spectral reconstruction enforces calibration stability without inference overhead
 
-- A hybrid MASL backbone combines convolutional, recurrent, and attention-based modules to capture local patterns, sequential dependencies, and global relevance.
+- •	Angular and Beer–Lambert-inspired constraints support physical plausibility and robustness
 
-- Extensive experiments on four real-world NIR datasets demonstrate consistent improvements over state-of-the-art baselines across multiple sensing domains.
+- •	Extensive experiments show improved accuracy and stability on real-world NIR datasets
+
 
 The two components are linked via a **spectral-angle cycle-consistency loss**, enabling bidirectional self-validation, improved robustness to data heterogeneity, and adherence to spectroscopic physics (e.g., Beer–Lambert law).
 
@@ -24,7 +25,7 @@ Physics-aware training via Beer–Lambert-inspired constraint and angular alignm
 Modular MASL backbone integrates Conv, GRU, and Attention for robust spectral feature extraction.
 
 ### 📄 Paper
-> **Physics-Guided Self-Consistent Dual Learning for Data-Efficient Near-Infrared Spectral Regression**  
+> **Dual-Path Consistency Learning for Chemical Composition Analysis from Near-Infrared Spectra**  
 > submitting
 
 ### 🚀 Coming Soon
